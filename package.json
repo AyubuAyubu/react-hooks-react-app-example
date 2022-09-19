@@ -6,7 +6,7 @@
     "date-fns": "^2.16.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "react-scripts": "4.0.1"
+    "react-scripts": "^4.0.1"
   },
   "devDependencies": {
     "@learn-co-curriculum/jest-learn-reporter": "^0.1.0",
@@ -38,5 +38,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "## Learning Goals",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyubuAyubu/react-hooks-react-app-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AyubuAyubu/react-hooks-react-app-example/issues"
+  },
+  "homepage": "https://github.com/AyubuAyubu/react-hooks-react-app-example#readme"
 }
